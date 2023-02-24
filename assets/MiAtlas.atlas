@@ -1,0 +1,62 @@
+
+MiAtlas.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+SpoinkAbajo
+  rotate: false
+  xy: 0, 0
+  size: 61, 98
+  orig: 77, 149
+  offset: 7, 18
+  index: -1
+SpoinkArriba
+  rotate: false
+  xy: 512, 0
+  size: 62, 127
+  orig: 82, 151
+  offset: 9, 7
+  index: -1
+SpoinkCargaSalto
+  rotate: false
+  xy: 1024, 0
+  size: 59, 104
+  orig: 76, 137
+  offset: 9, 13
+  index: -1
+SpoinkMedio1
+  rotate: false
+  xy: 1536, 0
+  size: 61, 106
+  orig: 86, 131
+  offset: 16, 8
+  index: -1
+SpoinkMedio2
+  rotate: false
+  xy: 0, 800
+  size: 61, 117
+  orig: 80, 125
+  offset: 10, 8
+  index: -1
+background
+  rotate: false
+  xy: 512, 800
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+flechas
+  rotate: false
+  xy: 1024, 800
+  size: 512, 506
+  orig: 512, 512
+  offset: 0, 3
+  index: -1
+plataforma
+  rotate: false
+  xy: 1536, 800
+  size: 392, 137
+  orig: 612, 408
+  offset: 128, 148
+  index: -1
